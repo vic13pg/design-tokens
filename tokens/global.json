@@ -146,11 +146,11 @@
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "$value": "DM Serif Display"
     },
     "secondary": {
       "$type": "fontFamilies",
-      "$value": "Outfit"
+      "$value": "DM Sans"
     }
   },
   "lineHeight": {
@@ -258,11 +258,11 @@
     },
     "expanded": {
       "$type": "letterSpacing",
-      "$value": "{dimension.x050}"
+      "$value": "{dimension.x025}"
     },
     "contracted": {
       "$type": "letterSpacing",
-      "$value": "- {dimension.x050}"
+      "$value": "-{dimension.x025}"
     }
   },
   "textCase": {
