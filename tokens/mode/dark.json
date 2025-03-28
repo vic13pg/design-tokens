@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.300}"
+          "$value": "{color.palette.accent.200}"
         },
         "accent-light": {
           "$type": "color",
@@ -56,7 +56,7 @@
       "background": {
         "accent-hover": {
           "$type": "color",
-          "$value": "{color.palette.accent.200}"
+          "$value": "{color.palette.accent.100}"
         },
         "accent-light-hover": {
           "$type": "color",

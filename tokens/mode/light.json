@@ -48,7 +48,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.400}"
+          "$value": "{color.palette.accent.700}"
         }
       }
     },
