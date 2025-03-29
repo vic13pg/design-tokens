@@ -12,47 +12,47 @@
       "mono": {
         "50": {
           "$type": "color",
-          "$value": "#f4f4f2"
+          "$value": "#f7f7f8"
         },
         "100": {
           "$type": "color",
-          "$value": "#e3e1de"
+          "$value": "#efeef0"
         },
         "200": {
           "$type": "color",
-          "$value": "#c8c6c0"
+          "$value": "#d8d8df"
         },
         "300": {
           "$type": "color",
-          "$value": "#a9a59b"
+          "$value": "#b7b6c3"
         },
         "400": {
           "$type": "color",
-          "$value": "#979287"
+          "$value": "#908fa1"
         },
         "500": {
           "$type": "color",
-          "$value": "#817b71"
+          "$value": "#737186"
         },
         "600": {
           "$type": "color",
-          "$value": "#6e6860"
+          "$value": "#5d5b6e"
         },
         "700": {
           "$type": "color",
-          "$value": "#5a544e"
+          "$value": "#4c4a59"
         },
         "800": {
           "$type": "color",
-          "$value": "#4e4945"
+          "$value": "#41404c"
         },
         "900": {
           "$type": "color",
-          "$value": "#45403e"
+          "$value": "#3a3842"
         },
         "950": {
           "$type": "color",
-          "$value": "#262422"
+          "$value": "#26252c"
         }
       },
       "negative": {

@@ -2,30 +2,30 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Aprende a diseñar e implementar Design Tokens"
+      "$value": "Aprende a producir música con Inteligencia Artificial"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "La mejor formación en español para que domines el diseño, distribución y aplicación de la metodología de Design Tokens. Iniciamos la 2ª edición el 10 de Marzo ¡No te quedes sin plaza!"
+      "$value": "Descubre cómo la IA está revolucionando la producción musical. Aprende a utilizar herramientas de IA para componer, mezclar y masterizar con calidad profesional. Inscríbete ahora y únete a la nueva era de la música."
     },
     "button": {
       "$type": "text",
-      "$value": "Ver sesiones →"
+      "$value": "Ver módulos →"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Por qué Design Tokens"
+      "$value": "¿Por qué aprender producción musical con IA?"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Los Design Tokens se han establecido como la metodología por excelencia para comunicar las decisiones de diseño entre marcas, equipos y tecnologías. Su potencial se basa en la idea de crear una fuente de la verdad, una guía común desde la que se distribuyan todas las decisiones."
+        "$value": "a inteligencia artificial está revolucionando la industria musical, permitiendo a artistas y productores explorar nuevas fronteras creativas. Al integrar IA en el proceso de producción, es posible automatizar tareas, generar ideas innovadoras y mejorar la eficiencia en la creación musical. Si buscas potenciar tu creatividad y optimizar tu flujo de trabajo en la producción musical, este curso es para ti."
       },
       "p2": {
         "$type": "text",
-        "$value": "Si te interesa optimizar los tiempos de desarrollo, la comunicación entre equipos o los sistemas de diseño en empresas en escala, este curso es para tí."
+        "$value": "La IA te permite crear sonidos únicos y explorar nuevos géneros, acelerando la producción sin perder calidad. Este curso te enseñará a integrar la IA de manera efectiva en tu proceso creativo."
       }
     },
     "button": {
@@ -42,13 +42,13 @@
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Las grandes empresas ya trabajan con Design Tokens"
+      "$value": "Las grandes empresas ya trabajan con IA en la música"
     }
   },
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sesiones"
+      "$value": "Módulos"
     },
     "tag": {
       "one": {
@@ -76,141 +76,141 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 1 - LUNES 10 DE MARZO"
+          "$value": "MÓDULO 1"
         },
         "title": {
           "$type": "text",
-          "$value": "La fuente de la verdad"
+          "$value": "Introducción a la IA en la música"
         },
         "description": {
           "$type": "text",
-          "$value": "Hablaremos del problema de comunicación entre los equipos de diseño y desarrollo y cómo los Design Tokens te ayudarán a mejorar el proceso, siendo la fuente de la verdad. Además de presentarnos y profundizar en lo que veremos durante el curso, mostraremos cómo es un flujo completo desde el diseño a la implementación."
+          "$value": "Conoce cómo la inteligencia artificial está revolucionando la música. Estudia su impacto en la producción, desde la creación de ideas hasta la mezcla final. Aprende los fundamentos de la IA y cómo está transformando la industria musical."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 2 - MARTES 11 DE MARZO"
+          "$value": "MÓDULO 2"
         },
         "title": {
           "$type": "text",
-          "$value": "Arquitectura de Tokens"
+          "$value": "Herramientas y software de producción con IA"
         },
         "description": {
           "$type": "text",
-          "$value": "Profundizarás en la teoría y buenas prácticas detrás de la implementación de Design Tokens. El objetivo será tener claros los principios y entender la toma de decisiones de su creación."
+          "$value": "Explora las herramientas y plugins más avanzados de IA para la producción musical. Aprende a integrarlos en tu DAW para mejorar tu flujo de trabajo y potenciar tu creatividad al máximo."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 3 - JUEVES 13 DE MARZO"
+          "$value": "MÓDULO 3"
         },
         "title": {
           "$type": "text",
-          "$value": "Sincronización con Github"
+          "$value": "Composición y arreglos con IA"
         },
         "description": {
           "$type": "text",
-          "$value": "Aprenderás a sincronizar tus Design Tokens entre Figma y GitHub, asegurando que los estilos y componentes de tu aplicación estén siempre actualizados y alineados."
+          "$value": "Aprende a generar melodías y armonías mediante IA, optimizando la creatividad y acelerando la producción."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 4, 5, 6 - 17, 18, 20 DE MARZO"
+          "$value": "MÓDULO 4"
         },
         "title": {
           "$type": "text",
-          "$value": "Prácticas en Figma y Token Studio"
+          "$value": "Generación de sonidos y síntesis con IA"
         },
         "description": {
           "$type": "text",
-          "$value": "Entraremos a la práctica de tokenizar nuestra interfaz, entendiendo y profundizando en la creación de Design Tokens con las herramientas de Figma y Token Studio."
+          "$value": "Crea nuevos timbres y texturas sonoras utilizando inteligencia artificial y síntesis neuronal."
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 7 - LUNES 24 DE MARZO"
+          "$value": "MÓDULO 5"
         },
         "title": {
           "$type": "text",
-          "$value": "Style Dictionary"
+          "$value": "Beatmaking automatizado"
         },
         "description": {
           "$type": "text",
-          "$value": "Descubrirás cómo utilizar Style Dictionary para gestionar tus Design Tokens a partir de una única fuente de la verdad. Veremos cómo configurarlo y alimentarlo desde los Tokens de Figma almacenados en Github."
+          "$value": "Diseña patrones rítmicos y loops con algoritmos inteligentes para mejorar tu producción de beats."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 8 - MARTES 25 DE MARZO"
+          "$value": "MÓDULO 6"
         },
         "title": {
           "$type": "text",
-          "$value": "Transformadores"
+          "$value": "Mezcla y ecualización con algoritmos inteligentes"
         },
         "description": {
           "$type": "text",
-          "$value": "En esta sesión, aprenderás a usar transformadores en Style Dictionary para convertir y adaptar los Design Tokens a las diferentes necesidades de la plataforma."
+          "$value": "Utiliza IA para balancear niveles, ecualizar y mejorar la claridad de tus mezclas de manera profesional."
         }
       },
       "seven": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 9 - JUEVES 27 DE MARZO"
+          "$value": "MÓDULO 7"
         },
         "title": {
           "$type": "text",
-          "$value": "Formatos"
+          "$value": "Masterización con inteligencia artificial"
         },
         "description": {
           "$type": "text",
-          "$value": "Verás cómo usar los formatos en Style Dictionary para definir la salida de los Design Tokens en diferentes lenguajes y plataformas (CSS, JavaScript, Swift, XML, etc.). Aprenderás a crear formatos personalizados que se adapten a las necesidades específicas de tu proyecto, permitiendo un flujo de trabajo más eficiente entre el diseño y el desarrollo."
+          "$value": "Descubre cómo las plataformas de IA pueden optimizar la masterización de tus canciones de forma automática y eficiente."
         }
       },
       "eight": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 10 - LUNES 31 DE MARZO"
+          "$value": "MÓDULO 8"
         },
         "title": {
           "$type": "text",
-          "$value": "Dark Mode"
+          "$value": "Optimización del flujo de trabajo con IA"
         },
         "description": {
           "$type": "text",
-          "$value": "Descubrirás el flujo completo para implementar el Dark Mode en proyectos utilizando Style Dictionary."
+          "$value": "Implementa IA en tu rutina de producción para ahorrar tiempo y mejorar la eficiencia."
         }
       },
       "nine": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 11 - MARTES 1 DE ABRIL"
+          "$value": "MÓDULO 9"
         },
         "title": {
           "$type": "text",
-          "$value": "Práctica de código"
+          "$value": "Distribución y marketing en la era digital"
         },
         "description": {
           "$type": "text",
-          "$value": "Pondremos en práctica todo lo visto en las clases de transformadores y formatos, para que no te quede ninguna duda."
+          "$value": "Aprende a utilizar inteligencia artificial para la promoción y distribución de tu música en plataformas digitales."
         }
       },
       "ten": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN 12 - JUEVES 3 DE ABRIL"
+          "$value": "MÓDULO 10"
         },
         "title": {
           "$type": "text",
-          "$value": "Presentaciones"
+          "$value": "Proyecto final: Creación de una canción con IA"
         },
         "description": {
           "$type": "text",
-          "$value": "Será una oportunidad para compartir los temas con Design Tokens que se han desarrollado durante el curso, intercambiando ideas, mejoras y despedirnos."
+          "$value": "Aplica todo lo aprendido para producir una canción completa utilizando herramientas de inteligencia artificial."
         }
       }
     }
@@ -219,21 +219,21 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Fernández Franco"
+        "$value": "María López"
       },
       "position": {
         "$type": "text",
-        "$value": "Platform Team Lead en idealista"
+        "$value": "Productora musical especialista en IA"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Peribáñez Tafalla"
+        "$value": "Juan Pérez"
       },
       "position": {
         "$type": "text",
-        "$value": "Design Systems en idealista"
+        "$value": "Ingeniero de sonido especializado en IA"
       }
     },
     "title": {
@@ -254,7 +254,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Design Tokens en español"
+          "$value": "Producción musical con IA en español"
         },
         "price": {
           "$type": "text",
@@ -262,7 +262,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Suscríbete a nuestra newsletter para recibir píldoras y novedades sobre Design Tokens."
+          "$value": "Suscríbete a nuestra newsletter para recibir novedades y recursos sobre producción musical asistida por IA.​"
         },
         "button": {
           "$type": "text",
@@ -272,11 +272,11 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "CURSO EN DIRECTO"
+          "$value": "CURSO ONLINE"
         },
         "title": {
           "$type": "text",
-          "$value": "Diseño e Implementación de Design Tokens"
+          "$value": "Producción Musical con Inteligencia Artificial"
         },
         "price-primary": {
           "$type": "text",
@@ -288,7 +288,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aprende el proceso de creación de Design Tokens desde la definición hasta la implementación en desarrollo."
+          "$value": "Aprende el proceso de creación musical asistida por IA desde la composición hasta la producción final"
         },
         "button": {
           "$type": "text",
@@ -298,15 +298,15 @@
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "ASESORÍA PRIVADA"
+          "$value": "MENTORÍA PRIVADA"
         },
         "title": {
           "$type": "text",
-          "$value": "¿Quieres que te ayudemos en tu proyecto?"
+          "$value": "¿Quieres que te ayudemos en tu proyecto musical?"
         },
         "description": {
           "$type": "text",
-          "$value": "Contáctanos para ayudarte de forma más personalizada en tu proyecto o empresa."
+          "$value": "Contáctanos para brindarte asesoría personalizada en la integración de IA en tu proceso de producción musical"
         },
         "button": {
           "$type": "text",
@@ -318,68 +318,68 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Te contamos más en video"
+      "$value": "¡Reserva tu plaza ahora!"
     }
   },
   "faqs": {
     "one": {
       "title": {
         "$type": "text",
-        "$value": "¿Cuándo serán las clases?"
+        "$value": "¿Necesito experiencia previa en producción musical para tomar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "La 2ª edición empezará el lunes 10 de Marzo. Las clases serán los lunes, martes y jueves, siendo la última sesión el 3 de Abril. El formato será online en directo, empezando a las 18:30 hasta las 20:30 UTC+1 (horario Madrid)."
+        "$value": "No, el curso está diseñado para todos los niveles. Comenzamos desde lo básico y avanzamos paso a paso para que puedas seguirlo sin importar tu nivel de experiencia"
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "¿Qué nivel de conocimientos necesito para el curso?"
+        "$value": "¿Qué herramientas de IA se utilizarán en el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "El curso va dirigido a cualquier perfil involucrado en el desarrollo de productos digitales, desde diseñadores a desarrolladores y product managers que quieran conocer la metodología para mejorar la escalabilidad y comunicación entre equipos a través de los Design Tokens. Daremos por sentada mucha información básica, por lo que si tienes dudas tanto sobre si este curso es para tí, como si va a cubrir tus expectativas, por favor contáctanos por correo y te daremos más info."
+        "$value": "Te enseñaremos a trabajar con las herramientas más innovadoras de IA en producción musical, como software de composición, mezcla, masterización, y generación de sonidos"
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "¿Necesito saber programar para el curso?"
+        "$value": "¿Qué equipo necesito para tomar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "No es necesario. Partiremos desde cero a la hora de enseñar cómo transformar y llevar a producción nuestros Design Tokens, por lo que no tendrás problemas de seguir las clases aunque nunca hayas programado."
+        "$value": "Solo necesitas una computadora con acceso a Internet. Las herramientas de IA que utilizamos son accesibles desde la mayoría de los dispositivos y están optimizadas para un rendimiento eficiente."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "¿Se grabarán las clases?"
+        "$value": "¿Cuánto tiempo necesito para completar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí, cada clase se grabará y se mantendrá disponible por un tiempo limitado, por si necesitas volver a verla o no has podido asistir."
+        "$value": "Este es un curso grabado de 30 horas, lo que te permitirá avanzar a tu propio ritmo. Podrás ver las lecciones cuando quieras y cuantas veces necesites para comprender completamente los conceptos y técnicas de producción musical con IA"
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "¿Podré resolver dudas tras el curso?"
+        "$value": "¿Puedo obtener un reembolso si no me gusta el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí, tendrás acceso de por vida a la comunidad de alumnos, donde podrás preguntar dudas y mantenerte al día de las novedades en el mundillo tecnológico y de Design Tokens. Además, tendrás acceso a la Bitácora de contenido, donde actualizaremos referencias y añadiremos contenido extra continuamente."
+        "$value": "Sí, ofrecemos una garantía de 15 días. Si no estás satisfecho, te reembolsaremos el dinero sin preguntas"
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "¿Habrá más ediciones?"
+        "$value": "¿En qué me beneficiará este curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí. Próximamente anunciaremos las fechas de las siguientes ediciones. Puedes mantenerte al tanto siguiendo nuestra página de Linkedin."
+        "$value": "Al finalizar el curso, serás capaz de producir música utilizando herramientas de IA, optimizando tu flujo de trabajo, y explorando nuevas posibilidades creativas para tu música."
       }
     },
     "title": {

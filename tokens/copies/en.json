@@ -2,30 +2,30 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Learn how to design and implement Design Tokens"
+      "$value": "Learn to produce music with Artificial Intelligence"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "A Spanish training course so you can master the design, distribution, and application of the Design Tokens methodology"
+      "$value": "Discover how AI is revolutionizing music production. Learn to use AI tools for composing, mixing, and mastering with professional quality. Sign up now and join the new era of music."
     },
     "button": {
       "$type": "text",
-      "$value": "2nd Call Open →"
+      "$value": "View modules →"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Why Design Tokens"
+      "$value": "Why Music Production with AI?"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Design Tokens have established themselves as the methodology of choice for communicating design decisions between brands, teams, and technologies. Their potential is based on the idea of creating a single source of truth, a common guide from which all decisions are distributed."
+        "$value": "Artificial intelligence is revolutionizing the music industry, enabling artists and producers to explore new creative frontiers. By integrating AI into the production process, it's possible to automate tasks, generate innovative ideas, and improve efficiency in music creation. If you're looking to enhance your creativity and optimize your workflow, this course is for you."
       },
       "p2": {
         "$type": "text",
-        "$value": "If you are interested in optimizing development times, team communication, or design systems in scaled organizations, this course is for you."
+        "$value": "AI allows you to create unique sounds and explore new genres, speeding up production without sacrificing quality. This course will teach you how to effectively integrate AI into your creative process."
       }
     },
     "button": {
@@ -42,7 +42,7 @@
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Major companies are already working with Design Tokens"
+      "$value": "Big companies are already integrating AI into music production"
     }
   },
   "sessions": {
@@ -325,61 +325,61 @@
     "one": {
       "title": {
         "$type": "text",
-        "$value": "When will the classes be held?"
+        "$value": "Do I need prior experience in music production to take the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "The 2nd edition will start on Monday, March 10. Classes will be on Mondays, Tuesdays, and Thursdays, with the last session on April 3. The format will be live online, starting at 6:30 PM UTC+1 (Madrid time)."
+        "$value": "No, the course is designed for all levels. We start with the basics and gradually progress, so you can follow it regardless of your experience."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "What level of knowledge do I need for the course?"
+        "$value": "What AI tools will be used in the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "The course is aimed at anyone involved in the development of digital products, from designers to developers and product managers who want to learn the methodology to improve scalability and team communication through Design Tokens. We will assume quite a bit of basic information, so if you have any doubts about whether this course is for you, or if it will meet your expectations, please contact us by email and we will provide more info."
+        "$value": "We’ll teach you how to work with the most innovative AI tools in music production, including software for composition, mixing, mastering, and sound generation."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Do I need to know how to program for the course?"
+        "$value": "What equipment do I need to take the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "No. We will start from scratch when teaching how to transform and bring our Design Tokens into production, so you will have no trouble following the lessons even if you've never programmed before."
+        "$value": "You only need a computer with internet access. The AI tools we use are accessible from most devices and optimized for efficient performance."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Will the classes be recorded?"
+        "$value": "How long will it take to complete the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "Yes, each class will be recorded and kept available for a limited time, in case you need to rewatch or were unable to attend."
+        "$value": "This is a recorded course with 30 hours of content, allowing you to move at your own pace. You can watch the lessons whenever you want and repeat them as many times as you need to fully understand the concepts and techniques of music production with AI."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Will I be able to ask questions after the course?"
+        "$value": "Can I get a refund if I don’t like the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "Yes, you will have lifetime access to the student community, where you can ask questions and stay up to date on the latest in technology and Design Tokens. Plus, you'll have access to the Content Log, where we'll continually update references and add extra content."
+        "$value": "Yes, we offer a 15-day money-back guarantee. If you’re not satisfied, we’ll refund your money without any questions."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Will there be more editions?"
+        "$value": "How will this course benefit me?"
       },
       "description": {
         "$type": "text",
-        "$value": "Yes. We will announce the dates for future editions soon. You can stay informed by following our LinkedIn page."
+        "$value": "By the end of the course, you’ll be able to produce music using AI tools, optimize your workflow, and explore new creative possibilities for your music."
       }
     },
     "title": {

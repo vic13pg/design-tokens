@@ -61,7 +61,7 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "{color.core.border.accent}"
           },
           "hover": {
             "$type": "color",
