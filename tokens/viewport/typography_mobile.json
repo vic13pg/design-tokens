@@ -47,7 +47,7 @@
         "strong": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "{fontFamily.primary}",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.400}",
@@ -103,8 +103,8 @@
         "uppercase": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.primary}",
-            "fontWeight": "{fontWeight.medium}",
+            "fontFamily": "{fontFamily.secondary}",
+            "fontWeight": "{fontWeight.semibold}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",
             "letterSpacing": "{letterSpacing.expanded}",

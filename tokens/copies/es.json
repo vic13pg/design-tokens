@@ -35,7 +35,7 @@
       },
       "secondary": {
         "$type": "text",
-        "$value": "Leer más en substack"
+        "$value": "Leer más en Substack"
       }
     }
   },
@@ -53,19 +53,23 @@
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "12 SESIONES EN DIRECTO"
+        "$value": "10 MÓDULOS"
       },
       "two": {
         "$type": "text",
-        "$value": "24 HORAS"
+        "$value": "30 HORAS"
       },
       "three": {
         "$type": "text",
-        "$value": "6H PRÁCTICA GUIADA"
+        "$value": "PROYECTO FINAL"
+      },
+      "three-copy": {
+        "$type": "text",
+        "$value": "PROYECTO FINAL"
       },
       "four": {
         "$type": "text",
-        "$value": "DIPLOMA FINAL"
+        "$value": "DIPLOMA ACREDITATIVO"
       },
       "five": {
         "$type": "text",
@@ -112,7 +116,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aprende a generar melodías y armonías mediante IA, optimizando la creatividad y acelerando la producción."
+          "$value": "Descubre cómo la inteligencia artificial puede generar melodías y armonías de manera innovadora. Aprende a crear estructuras musicales únicas y experimenta con nuevas técnicas para componer rápidamente."
         }
       },
       "four": {
@@ -126,7 +130,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Crea nuevos timbres y texturas sonoras utilizando inteligencia artificial y síntesis neuronal."
+          "$value": "Aprende a crear timbres y texturas sonoras a través de la inteligencia artificial. Explora nuevas formas de síntesis y personalización sonora, diseñando sonidos que antes parecían imposibles."
         }
       },
       "five": {
@@ -140,7 +144,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Diseña patrones rítmicos y loops con algoritmos inteligentes para mejorar tu producción de beats."
+          "$value": "Automatiza la creación de patrones rítmicos y loops con algoritmos inteligentes. Mejora la producción de beats mediante herramientas que agilizan el proceso creativo y ofrecen nuevas posibilidades rítmicas."
         }
       },
       "six": {
@@ -154,7 +158,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Utiliza IA para balancear niveles, ecualizar y mejorar la claridad de tus mezclas de manera profesional."
+          "$value": "Optimiza tus mezclas con IA que balancea niveles, aplica ecualización y mejora la claridad. Utiliza herramientas de IA para obtener mezclas profesionales y con mayor precisión."
         }
       },
       "seven": {
@@ -168,7 +172,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descubre cómo las plataformas de IA pueden optimizar la masterización de tus canciones de forma automática y eficiente."
+          "$value": "Aprende a masterizar automáticamente con plataformas basadas en IA. Optimiza el volumen, EQ y compresión para lograr un sonido balanceado, profesional y competitivo en el mercado."
         }
       },
       "eight": {
@@ -182,7 +186,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Implementa IA en tu rutina de producción para ahorrar tiempo y mejorar la eficiencia."
+          "$value": "Integra la inteligencia artificial en tu flujo de trabajo para ahorrar tiempo y mejorar la productividad. Automatiza tareas repetitivas y organiza tus proyectos con más eficiencia."
         }
       },
       "nine": {
@@ -196,7 +200,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aprende a utilizar inteligencia artificial para la promoción y distribución de tu música en plataformas digitales."
+          "$value": "Usa IA para promover y distribuir tu música. Aprende a aprovechar las plataformas digitales y los algoritmos de recomendación para llegar a más oyentes y optimizar tu presencia online."
         }
       },
       "ten": {
@@ -210,7 +214,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aplica todo lo aprendido para producir una canción completa utilizando herramientas de inteligencia artificial."
+          "$value": "Aplica todos los conocimientos adquiridos para crear una canción completa utilizando herramientas de IA. Desarrolla un proyecto de música profesional integrando todas las técnicas aprendidas en el curso."
         }
       }
     }
@@ -390,7 +394,7 @@
   "footer": {
     "copyright": {
       "$type": "text",
-      "$value": "Design Tokens en Español © 2024 Todos los derechos reservados."
+      "$value": "BeatX Studio © 2025 Todos los derechos reservados."
     },
     "link": {
       "privacy": {
@@ -399,7 +403,7 @@
       },
       "mail": {
         "$type": "text",
-        "$value": "hola@designtokens.es"
+        "$value": "info@beatxstudio.es"
       },
       "linkedin": {
         "$type": "text",

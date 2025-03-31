@@ -48,24 +48,24 @@
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sessions"
+      "$value": "Modules"
     },
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "12 LIVE SESSIONS"
+        "$value": "10 MODULES"
       },
       "two": {
         "$type": "text",
-        "$value": "24 HOURS"
+        "$value": "30 HOURS"
       },
       "three": {
         "$type": "text",
-        "$value": "6H GUIDED PRACTICE"
+        "$value": "FINAL PROJECT"
       },
       "four": {
         "$type": "text",
-        "$value": "FINAL DIPLOMA"
+        "$value": "CERTIFICATE OF ACREDITATION"
       },
       "five": {
         "$type": "text",
@@ -76,141 +76,141 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 1"
+          "$value": "MODULE 1"
         },
         "title": {
           "$type": "text",
-          "$value": "The Single Source of Truth"
+          "$value": "Introduction to AI in music"
         },
         "description": {
           "$type": "text",
-          "$value": "We will discuss the communication problem between design and development teams and how Design Tokens can help you improve the process, serving as the single source of truth. In addition to introductions and delving deeper into what we will cover during the course, we will showcase what a complete workflow looks like from design to implementation."
+          "$value": "Discover how artificial intelligence is transforming music. Explore its impact on production, from idea generation to the final mix. Learn the fundamentals of AI and how it is changing the music industry."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 2"
+          "$value": "MODULE 2"
         },
         "title": {
           "$type": "text",
-          "$value": "Token Architecture"
+          "$value": "AI production tools and software"
         },
         "description": {
           "$type": "text",
-          "$value": "You will delve into the theory and best practices behind the implementation of Design Tokens. The goal will be to clarify the principles and understand the decision-making process of their creation."
+          "$value": "Explore the most advanced AI tools and plugins for music production. Learn how to integrate them into your DAW to enhance your workflow and maximize creativity."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 3"
+          "$value": "MODULE 3"
         },
         "title": {
           "$type": "text",
-          "$value": "Synchronization with GitHub"
+          "$value": "Composition and arrangements with AI"
         },
         "description": {
           "$type": "text",
-          "$value": "You will learn how to synchronize your Design Tokens between Figma and GitHub, ensuring that your application's styles and components are always up to date and in sync."
+          "$value": "Learn to generate melodies and harmonies using AI, optimizing creativity and speeding up the production process."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 4, 5, 6"
+          "$value": "MODULE 4"
         },
         "title": {
           "$type": "text",
-          "$value": "Hands-on in Figma and Token Studio"
+          "$value": "AI-Driven sound generation and synthesis"
         },
         "description": {
           "$type": "text",
-          "$value": "We'll get hands-on with tokenizing our interface, understanding and diving deeper into creating Design Tokens using Figma and Token Studio."
+          "$value": "Create new timbres and sound textures using artificial intelligence and neural synthesis."
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 7"
+          "$value": "MODULE 5"
         },
         "title": {
           "$type": "text",
-          "$value": "Style Dictionary"
+          "$value": "Automated beatmaking"
         },
         "description": {
           "$type": "text",
-          "$value": "You will discover how to use Style Dictionary to manage your Design Tokens from a single source of truth. We will see how to configure it and feed it from the Figma tokens stored in GitHub."
+          "$value": "Design rhythmic patterns and loops with intelligent algorithms to improve your beat production."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 8"
+          "$value": "MODULE 6"
         },
         "title": {
           "$type": "text",
-          "$value": "Transformers"
+          "$value": "Mixing and equalization with intelligent algorithms"
         },
         "description": {
           "$type": "text",
-          "$value": "In this session, you will learn how to use transformers in Style Dictionary to convert and adapt Design Tokens to various platform needs."
+          "$value": "Enhance your mixes with AI-powered tools that optimize equalization, balance, and clarity in your productions."
         }
       },
       "seven": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 9"
+          "$value": "MODULE 7"
         },
         "title": {
           "$type": "text",
-          "$value": "Formats"
+          "$value": "Mastering with AI"
         },
         "description": {
           "$type": "text",
-          "$value": "You will see how to use formats in Style Dictionary to define the output of Design Tokens in different languages and platforms (CSS, JavaScript, Swift, XML, etc.). You will learn how to create custom formats that cater to your project's specific needs, enabling a more efficient workflow between design and development."
+          "$value": "Discover how AI platforms can optimize the mastering of your tracks efficiently and automatically."
         }
       },
       "eight": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 10"
+          "$value": "MODULE 8"
         },
         "title": {
           "$type": "text",
-          "$value": "Dark Mode"
+          "$value": "Workflow optimization with AI"
         },
         "description": {
           "$type": "text",
-          "$value": "You will discover the complete workflow for implementing Dark Mode in projects using Style Dictionary."
+          "$value": "Implement AI in your production routine to save time and improve efficiency."
         }
       },
       "nine": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 11"
+          "$value": "MODULE 9"
         },
         "title": {
           "$type": "text",
-          "$value": "Coding Practice"
+          "$value": "Music distribution and marketing in the digital era"
         },
         "description": {
           "$type": "text",
-          "$value": "We will put into practice everything covered in the sessions about transformers and formats, so you won't have any doubts."
+          "$value": "Learn how to leverage AI for the promotion and distribution of your music on digital platforms."
         }
       },
       "ten": {
         "caption": {
           "$type": "text",
-          "$value": "SESSION 12"
+          "$value": "MODULE 10"
         },
         "title": {
           "$type": "text",
-          "$value": "Presentations"
+          "$value": "Final project: Creating a song with AI"
         },
         "description": {
           "$type": "text",
-          "$value": "This will be an opportunity to share the Design Tokens projects developed during the course, exchange ideas and improvements, and say our farewells."
+          "$value": "Apply everything you've learned to produce a complete song using artificial intelligence tools."
         }
       }
     }
@@ -219,21 +219,21 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Fernández Franco"
+        "$value": "María López"
       },
       "position": {
         "$type": "text",
-        "$value": "Platform Team Lead at idealista"
+        "$value": "AI Music Production Specialist"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Peribáñez Tafalla"
+        "$value": "Juan Pérez"
       },
       "position": {
         "$type": "text",
-        "$value": "Design Systems at idealista"
+        "$value": "AI Sound Engineer"
       }
     },
     "title": {
@@ -254,7 +254,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Design Tokens in Spanish"
+          "$value": "AI Music Production in Spanish"
         },
         "price": {
           "$type": "text",
@@ -262,7 +262,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Subscribe to our newsletter to receive bite-sized updates and news about Design Tokens."
+          "$value": "Subscribe to our newsletter to receive updates and resources on AI-assisted music production."
         },
         "button": {
           "$type": "text",
@@ -272,23 +272,23 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "LIVE COURSE"
+          "$value": "ONLINE COURSE"
         },
         "title": {
           "$type": "text",
-          "$value": "Design and Implementation of Design Tokens"
+          "$value": "AI Music Production"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "€850"
+          "$value": "€950"
         },
         "price-secondary": {
           "$type": "text",
-          "$value": "€950"
+          "$value": ""
         },
         "description": {
           "$type": "text",
-          "$value": "Learn the process of creating Design Tokens from definition to implementation in development."
+          "$value": "Learn the process of AI-assisted music creation, from composition to final production."
         },
         "button": {
           "$type": "text",
@@ -298,15 +298,15 @@
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "PRIVATE CONSULTING"
+          "$value": "PRIVATE MENTORSHIP"
         },
         "title": {
           "$type": "text",
-          "$value": "Need our help with your project?"
+          "$value": "Do you want our help with your music project?"
         },
         "description": {
           "$type": "text",
-          "$value": "Contact us for personalized assistance with your project or company."
+          "$value": "Contact us for personalized guidance on integrating AI into your music production process."
         },
         "button": {
           "$type": "text",
@@ -318,7 +318,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "We'll tell you more in a video"
+      "$value": "Reserve your seat now!"
     }
   },
   "faqs": {
@@ -390,7 +390,7 @@
   "footer": {
     "copyright": {
       "$type": "text",
-      "$value": "Design Tokens in Spanish © 2024 All rights reserved."
+      "$value": "BeatX Studio © 2025 All rights reserved."
     },
     "link": {
       "privacy": {
@@ -399,7 +399,7 @@
       },
       "mail": {
         "$type": "text",
-        "$value": "hola@designtokens.es"
+        "$value": "info@beatxstudio.es"
       },
       "linkedin": {
         "$type": "text",

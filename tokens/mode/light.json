@@ -111,23 +111,23 @@
       },
       "2": {
         "$type": "asset",
-        "$value": "google-logo-light.svg"
+        "$value": "sae-logo-light.svg"
       },
       "3": {
         "$type": "asset",
-        "$value": "zendesk-logo-light.svg"
+        "$value": "warner-logo-light.svg"
       },
       "4": {
         "$type": "asset",
-        "$value": "adobe-logo-light.svg"
+        "$value": "xl-logo-light.svg"
       },
       "5": {
         "$type": "asset",
-        "$value": "salesforce-logo-light.svg"
+        "$value": "sony-logo-light.svg"
       },
       "6": {
         "$type": "asset",
-        "$value": "uber-logo-light.svg"
+        "$value": "universal-logo-light.svg"
       },
       "placeholder": {
         "1": {
@@ -136,70 +136,34 @@
         },
         "2": {
           "$type": "asset",
-          "$value": "google-logo-placeholder-light.svg"
+          "$value": "sae-logo-placeholder-light.svg"
         },
         "3": {
           "$type": "asset",
-          "$value": "zendesk-logo-placeholder-light.svg"
+          "$value": "warner-logo-placeholder-light.svg"
         },
         "4": {
           "$type": "asset",
-          "$value": "adobe-logo-placeholder-light.svg"
+          "$value": "xl-logo-placeholder-light.svg"
         },
         "5": {
           "$type": "asset",
-          "$value": "salesforce-logo-placeholder-light.svg"
+          "$value": "sony-logo-placeholder-light.svg"
         },
         "6": {
           "$type": "asset",
-          "$value": "uber-logo-placeholder-light.svg"
+          "$value": "universal-logo-placeholder-light.svg"
         }
       }
     },
     "avatar": {
       "1": {
         "$type": "asset",
-        "$value": "pablo-fernandez.png"
+        "$value": "maria-lopez.png"
       },
       "2": {
         "$type": "asset",
-        "$value": "pablo-peribanez.png"
-      },
-      "3": {
-        "$type": "asset",
-        "$value": "pablo-garcia.png"
-      },
-      "4": {
-        "$type": "asset",
-        "$value": "marta-landin.png"
-      },
-      "5": {
-        "$type": "asset",
-        "$value": "guillermo-adan.png"
-      },
-      "6": {
-        "$type": "asset",
-        "$value": "rut-galvin.png"
-      },
-      "7": {
-        "$type": "asset",
-        "$value": "natalia-soria.png"
-      },
-      "8": {
-        "$type": "asset",
-        "$value": "veronica-aguilar.png"
-      },
-      "9": {
-        "$type": "asset",
-        "$value": "mar-perez.png"
-      },
-      "10": {
-        "$type": "asset",
-        "$value": "angela-velasco.png"
-      },
-      "11": {
-        "$type": "asset",
-        "$value": "sofia-ortiz.png"
+        "$value": "juan-perez.png"
       }
     },
     "language": {
