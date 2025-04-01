@@ -1,5 +1,5 @@
 import StyleDictionary from 'style-dictionary';
-import { register } from '@tokens-studio/sd-transforms';
+import { expandTypesMap, register } from '@tokens-studio/sd-transforms';
 import ThemesLoader from 'sd-themes-loader';
 import { platform } from 'os';
 
@@ -13,8 +13,16 @@ async function run() {
     const themes = await loader.load('/tokens');
 
     const globalTheme = themes.getThemeByName('global');
+    const lightTheme = themes.getThemeByName('light');
+    const darkTheme = themes.getThemeByName('dark');
 
-    const config = {
+    const globalConfig = {
+
+        expand: {
+            typesMap: true,
+
+        },
+
         platforms: {
             web: {
                 files: [
@@ -26,13 +34,58 @@ async function run() {
                 transforms:[
                     'name/kebab',
                     'ts/resolveMath',
+                    'ts/typography/fontWeight',
+                    'ts/size/lineheight',
                     'size/pxToRem'
                 ]
             }
         }
     };
 
-    globalTheme.addConfig(config).build();
+
+    const lightConfig = {
+
+        platforms: {
+            web: {
+                files: [
+                    {
+                        destination: 'app/build/light/variables.css',
+                        format:'css/variables',
+                    }
+                ],
+                transforms:[
+                    'name/kebab',
+                    'color/rgb',
+
+                ]
+            }
+        }
+    };
+
+
+
+    const darkConfig = {
+
+        platforms: {
+            web: {
+                files: [
+                    {
+                        destination: 'app/build/dark/variables.css',
+                        format:'css/variables',
+                    }
+                ],
+                transforms:[
+                    'name/kebab',
+                    'color/rgb',
+
+                ]
+            }
+        }
+    };
+
+    globalTheme.addConfig(globalConfig).build();
+    lightTheme.addConfig(lightConfig).build();
+    darkTheme.addConfig(darkConfig).build();
 
 }
 
